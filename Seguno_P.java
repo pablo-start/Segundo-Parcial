@@ -15,6 +15,7 @@ public class Seguno_P {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Pablo Bernal Lazcano");
         System.out.println("Segundo Parcial");
     }
     
