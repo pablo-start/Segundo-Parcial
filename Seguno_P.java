@@ -17,6 +17,7 @@ public class Seguno_P {
     public static void main(String[] args) {
         System.out.println("Pablo Bernal Lazcano");
         System.out.println("Segundo Parcial");
+        System.out.println("Tarea de release");
     }
     
 }
